@@ -275,6 +275,9 @@ int main() {
     else if (x==1000000000) {
         printf("one billion");
     }
+    else {
+        printf("Input is overloaded");
+    }
 
 
     return 0;
